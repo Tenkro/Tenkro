@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tenkro
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning JS,HTML+CSS, PHP
